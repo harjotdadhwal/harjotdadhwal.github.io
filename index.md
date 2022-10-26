@@ -13,11 +13,11 @@
 
 ---
 [Optimal EV Charging Network](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/ev.JPG?raw=true"/>
 
 ---
 [Vehicle Claim Reimbursement Classifier](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reimbursed.JPG?raw=true"/>
 
 ---
 
