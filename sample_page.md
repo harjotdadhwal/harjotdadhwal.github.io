@@ -27,8 +27,7 @@ The overall modeling framework adopted for this study can be summarized in the b
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
 ### 3. Data preparation 
-• **Missing values** - for weather parameters were imputed using MICE. Also, certain parameters like visibility, humidity, wind chill, and station pressure that had over 75% data missing - were removed.
-<br><br>
+• **Missing values** - for weather parameters were imputed using MICE. Also, certain parameters like visibility, humidity, wind chill, and station pressure that had over 75% data missing - were removed.<br><br>
 • **Upscaling of weather data** -  it was required to upscale the data from lower to the broader level i.e., from station level to the province level. k-means clustering was used to perform data upscaling to establish data scale uniformity 
 
 ### 4. Mechanics of Electricity Pricing
@@ -53,12 +52,11 @@ prices compared to last year, averaging $254.25/MWh.
 <br><br>
 <img src="images/price_spikes.JPG?raw=true"/>
 
-### 3. Support the selection of appropriate statistical tools and techniques
+### 4. Feature engineering
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/fe.JPG?raw=true"/>
 
-### 4. Provide a basis for further data collection through surveys or experiments
-
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+### 5. Hypothesis Testing
+<img src="images/ht.JPG?raw=true"/>
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
