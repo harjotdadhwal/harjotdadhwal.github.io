@@ -11,7 +11,7 @@ Term Period](/sample_page)
 
 ---
 [NPS Driver Analysis using Kano Model](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/nps.JPG?raw=true"/>
 
 ---
 [Optimal EV Charging Network](http://example.com/)
