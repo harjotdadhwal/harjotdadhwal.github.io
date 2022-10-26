@@ -2,25 +2,27 @@
 
 ---
 
-### Category Name 1 
+### Data Science Projects 
 
-[Project 1 Title](/sample_page)
+[Electricity Load and Price 
+Forecasting for Short 
+Term Period](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[NPS Driver Analysis using Kano Model](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Optimal EV Charging Network](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Blogs
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
+- [Why Should Adam Optimizer Not Be the Default Learning Algorithm?](https://pub.towardsai.net/why-adam-optimizer-should-not-be-the-default-learning-algorithm-a2b8d019eaa0)
+- [The Mathematical Relationship between Model Complexity and Bias-Variance Dilemma]([http://example.com/](https://pub.towardsai.net/the-mathematical-relationship-between-model-complexity-and-bias-variance-dilemma-c2c713dbe495))
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
