@@ -1,13 +1,15 @@
 title: Harjot Kaur # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Product and Analytics professional, who loves tackling complex and unique business challenges. 10+ years of comprehensive analytics and product management experience in Telecom, DTH, Electronics and Lifestyle Retail, Mining and Energy sectors. Adept at strategy & insights, business analytics, business intelligence, measurement & optimization, data science, program management, customer experience, pricing & revenue management across varied marketing (B2C & B2B) functions. 
+  Product and Analytics specialist with 10+ years of experience in product analytics, revenue management and new product development. 
+  I operate at an intersection of Analytics, Product Management and Revenue management.  
 
  
   <br><br>
-  A marathoner, mountaineer and an avid reader  
+  A marathoner, mountaineer and an avid reader! 
   <br><br>
   <a href="https://www.linkedin.com/in/harjot-kaur-99792118/">View My LinkedIn Profile</a> 
+  <a href="https://github.com/harjotdadhwal">View My GitHub Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
