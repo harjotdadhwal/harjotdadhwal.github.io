@@ -30,12 +30,6 @@
 - [Math behind the Gradient Descent Algorithm](https://harjot-dadhwal.medium.com/math-behind-the-gradient-descent-algorithm-8d6137d92e9))
 - [Why Should Euclidean Distance Not Be the Default Distance Measure?](https://pub.towardsai.net/why-should-euclidean-distance-not-be-the-default-distance-measure-e55d72bd16e2)
 
----
-
-### Resources
-
-[Linear Programming using pulp](/sample_page)
-<img src="images/pf.JPG?raw=true"/>
 
 ---
 
