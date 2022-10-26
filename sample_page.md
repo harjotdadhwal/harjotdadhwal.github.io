@@ -1,4 +1,4 @@
-## Electricity Load and Price Forecasting for Short Term Period
+## Electricity Load and Price Forecasting for Short Term Period (Time Series Forecasting)
 
 **Project abstract:** 
 Electricity trading has grown with superlative rapidity. It is a special form of commodity 
@@ -21,20 +21,25 @@ climate data, and calendar information were considered for forecasting load at a
 time and in succession load, and other variables were considered to forecast price for the day-ahead 
 market in Alberta Canada. 
 
-### 2. Project Lifecycle 
+### 2. Modeling approach 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
 <br><br>
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
+### 3. Data preparation 
+• Under this section, missing values for weather parameters were imputed using MICE. Also, certain parameters like visibility, humidity, wind chill, and station pressure that had over 75% data missing - were removed.
+• Upscaling of weather data -  it was required to upscale the data from lower to the broader level i.e., from station level to the province level. k-means clustering was used to perform data upscaling to establish data scale uniformity 
 
-
-### 2. Assess assumptions on which statistical inference will be based
-
-```javascript
-if (isAwesome){
-  return true
-}
-```
+### 4. Mechanics of Electricity Pricing
+• High volatility in pool prices - Electricity prices in Alberta have been increasing over the years. 2021 has witnessed an 
+unprecedented surge in electricity prices because of a *seemingly unending polar vortex, the 
+continuing shift from coal- to natural gas-fired power, as well as record-breaking electricity demand 
+(PPA).* Additionally, the tight supply cushion within the Albertan electricity market has caused extreme 
+volatility on the wholesale market, with the flat pool price averaging at $96/MWh with variability of 
+$142/MWh (i.e., 1.5 times the average pool price)
+<br><br>
+<img src="images/price_volatility.JPG?raw=true"/>
+• Upscaling of weather data -  it was required to upscale the data from lower to the broader level i.e., from station level to the province level. k-means clustering was used to perform data upscaling to establish data scale uniformity 
 
 ### 3. Support the selection of appropriate statistical tools and techniques
 
