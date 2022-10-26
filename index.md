@@ -4,9 +4,7 @@
 
 ### Data Science Projects 
 
-[Electricity Load and Price 
-Forecasting for Short 
-Term Period](/sample_page)
+[Electricity Load and Price Forecasting for Short Term Period](/sample_page)
 <img src="images/pf.JPG?raw=true"/>
 
 ---
@@ -34,7 +32,12 @@ Term Period](/sample_page)
 
 ---
 
+### Resources
 
+[Linear Programming using pulp](/sample_page)
+<img src="images/pf.JPG?raw=true"/>
+
+---
 
 
 ---
