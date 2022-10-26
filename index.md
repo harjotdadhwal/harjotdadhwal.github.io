@@ -17,7 +17,7 @@
 
 ---
 [Vehicle Claim Reimbursement Classifier](http://example.com/)
-<img src="images/reimbursed.JPG?raw=true"/>
+<img src="images/reimbursement.JPG?raw=true"/>
 
 ---
 
