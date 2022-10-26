@@ -29,6 +29,10 @@
 - [Elucidating the Power of Inferential Statistics To Make Smarter Decisions!](https://pub.towardsai.net/elucidating-the-power-of-inferential-statistics-to-make-smarter-decisions-6e8d4b0643ef))
 - [Math behind the Gradient Descent Algorithm](https://harjot-dadhwal.medium.com/math-behind-the-gradient-descent-algorithm-8d6137d92e9))
 - [Why Should Euclidean Distance Not Be the Default Distance Measure?](https://pub.towardsai.net/why-should-euclidean-distance-not-be-the-default-distance-measure-e55d72bd16e2)
+- [Why should you prefer SVD over EIG while performing Linear Principal Component Analysis?](https://harjot-dadhwal.medium.com/why-should-you-prefer-svd-over-eig-while-performing-linear-principal-component-analysis-36a84db3ba4b)
+- [Understanding Backpropagation using Mountaineering as an analogy](https://harjot-dadhwal.medium.com/understanding-backpropagation-using-mountaineering-as-an-analogy-5a295c6e468e)
+- [Text Generation using Markov Chain Algorithm](https://harjot-dadhwal.medium.com/text-generation-using-markov-chain-algorithm-ec99ee8561d1)
+- [PREDICTING BINARY CLASS PROBABILITY WITH LOGISTIC REGRESSION](https://harjot-dadhwal.medium.com/predicting-binary-class-probability-with-logistic-regression-34dc6ba3ed8a)
 
 
 ---
@@ -38,4 +42,4 @@
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/R8YFXLFH74GJ)
 
 
-
+---
