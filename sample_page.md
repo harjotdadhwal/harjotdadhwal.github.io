@@ -24,13 +24,9 @@ market in Alberta Canada.
 ### 2. Project Lifecycle 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
 <br><br>
-![Overall Modeling approach](https://github.com/harjotdadhwal/harjotdadhwal.github.io/blob/main/images/dummy_thumbnail.png) 
+<img src="images/dummy_thumbnail.png?raw=true"/>
 
-```javascript
-if (isAwesome){
-  return true
-}
-```
+
 
 ### 2. Assess assumptions on which statistical inference will be based
 
