@@ -61,10 +61,14 @@ prices compared to last year, averaging $254.25/MWh.
 <img src="images/ht.JPG?raw=true"/>
 
 ### 6. Model Building and Validation 
-• **Seasonal Load Forecasting Model using LSTM -**
+• **Seasonal Load Forecasting Model using LSTM -** Since load data exhibited significant variance across seasons, two load forecasting models were created using the following features
 
 <img src="images/lf_variables.JPG?raw=true"/>
 <img src="images/lf_results.JPG?raw=true"/>
+
+• **Hybrid Price Forecasting Model using LSTM -** Since load data exhibited significant variance across seasons, two load forecasting models were created using the following features
+
+<img src="images/lf_variables.JPG?raw=true"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
