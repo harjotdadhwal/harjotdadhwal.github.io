@@ -2,6 +2,11 @@
 
 ---
 
+### About me 
+
+
+---
+
 ### Data Science Projects 
 
 [Electricity Load and Price Forecasting for Short Term Period](/sample_page)
