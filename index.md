@@ -7,7 +7,7 @@
 [Electricity Load and Price 
 Forecasting for Short 
 Term Period](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/tempsnip.png?raw=true"/>
 
 ---
 [NPS Driver Analysis using Kano Model](/pdf/sample_presentation.pdf)
