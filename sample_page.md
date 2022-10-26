@@ -1,4 +1,4 @@
-## Electricity Load and Price Forecasting for Short Term Period (Time Series Forecasting)
+## Electricity Load and Price Forecasting for Short Term Period ***(Time Series Forecasting)***
 
 **Project abstract:** 
 Electricity trading has grown with superlative rapidity. It is a special form of commodity 
