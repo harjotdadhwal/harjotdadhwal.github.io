@@ -1,6 +1,7 @@
-## Electricity Load and Price Forecasting for Short Term Period ***(Time Series Forecasting)***
+## Electricity Load and Price Forecasting for Short Term Period 
+*Time Series Forecasting*
 
-**Project abstract:** 
+**Project Abstract:** 
 Electricity trading has grown with superlative rapidity. It is a special form of commodity 
 as it cannot be stored, and electricity price is too volatile. The cost of over-contracting 
 or under-contracting and then buying or selling electricity is so high that it can even lead to 
@@ -15,18 +16,18 @@ zones. In a nutshell, it will enable users to make informed energy trading decis
 • To predict hourly electricity load for Alberta Canada 
 • To forecast hourly electricity price based on above predicted load
 
-### 1. Feature space 
+### 1. Feature Space 
 Forecasting energy prices is a function of load prediction. Various parameters like historical load, 
 climate data, and calendar information were considered for forecasting load at an hourly interval of 
 time and in succession load, and other variables were considered to forecast price for the day-ahead 
 market in Alberta Canada. 
 
-### 2. Modeling approach 
+### 2. Modeling Approach 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
 <br><br>
 <img src="images/dummy_thumbnail.png?raw=true"/>
 
-### 3. Data preparation 
+### 3. Data Preparation 
 • **Missing values** - for weather parameters were imputed using MICE. Also, certain parameters like visibility, humidity, wind chill, and station pressure that had over 75% data missing - were removed.<br><br>
 • **Upscaling of weather data** -  it was required to upscale the data from lower to the broader level i.e., from station level to the province level. k-means clustering was used to perform data upscaling to establish data scale uniformity 
 
@@ -52,11 +53,18 @@ prices compared to last year, averaging $254.25/MWh.
 <br><br>
 <img src="images/price_spikes.JPG?raw=true"/>
 
-### 4. Feature engineering
+### 4. Feature Engineering
 
 <img src="images/fe.JPG?raw=true"/>
 
 ### 5. Hypothesis Testing
 <img src="images/ht.JPG?raw=true"/>
+
+### 6. Model Building and Validation 
+• **Seasonal Load Forecasting Model using LSTM -**
+
+<img src="images/load_f.JPG?raw=true"/>
+<img src="images/lf_results.JPG?raw=true"/>
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
