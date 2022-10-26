@@ -2,11 +2,6 @@
 
 ---
 
-### About me 
-
-
----
-
 ### Data Science Projects 
 
 [Electricity Load and Price Forecasting for Short Term Period](/sample_page)
@@ -22,7 +17,7 @@
 
 ---
 [Vehicle Claim Reimbursement Classifier](http://example.com/)
-<img src="images/reimbursement.JPG?raw=true"/>
+<img src="images/reimbursed.JPG?raw=true"/>
 
 ---
 
