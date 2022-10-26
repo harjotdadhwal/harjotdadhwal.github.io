@@ -32,8 +32,11 @@
 
 
 ---
-
-
+### Certifications
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a0bb3fcf-362f-4c81-b0b7-b5162f7ca204/public_url)
+- [AWS Certified Machine Learning Specialist](https://www.credly.com/badges/a0bb3fcf-362f-4c81-b0b7-b5162f7ca204/public_url)
+- [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/R8YFXLFH74GJ)
+- 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
