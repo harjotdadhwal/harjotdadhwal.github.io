@@ -63,7 +63,7 @@ prices compared to last year, averaging $254.25/MWh.
 ### 6. Model Building and Validation 
 • **Seasonal Load Forecasting Model using LSTM -**
 
-<img src="images/load_f.JPG?raw=true"/>
+<img src="images/lf_variables.JPG?raw=true"/>
 <img src="images/lf_results.JPG?raw=true"/>
 
 
