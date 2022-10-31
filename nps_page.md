@@ -78,3 +78,8 @@ The overall modeling framework adopted for this study can be summarized in the b
 **6.Service - appearing as a dominant topic in 40% of the responses 
 <img src="images/topic5.JPG?raw=true"/>
 
+### Part 1.2. - Identifying the sentiment orientations toward each CSD
+Sentiment classification has been done based on the polarity score from NLTK, that uses Naïve Bayes algorithm. 
+Further, each CSD has been assigned either a positive or negative sentiment orientation    
+<img src="images/1.2.JPG?raw=true"/>
+
