@@ -60,16 +60,16 @@ The project output demands the following steps:
 - Simply put, distance from every demand point to every supply point was calculated 
 
 ### 1.3. Formulate an LP problem to minimise the overall cost 
-- Defining the objective function - adding all costs 
+*- Defining the objective function - adding all costs* 
 - <img src="images/ob_def.JPG?raw=true"/>
 <img src="images/ob.JPG?raw=true"/>
 
-- Defining the decision variables 
+*- Defining the decision variables* 
 <br><br>
  (a) the demand fulfilled at every demand index by every supply index, (b)optimal number of scs and (c)optimal number of fcs  
 <img src="images/dv.JPG?raw=true"/>
 
-- Defining the constraints 
+*- Defining the constraints* 
 <br><br>
 (a) Sum of SCS and FCS must be less than or equal to the total parking slots available at each supply point  
 <img src="images/cons_parking.JPG?raw=true"/>
@@ -80,3 +80,5 @@ supply point
 satisfied
 <img src="images/cons_scs.JPG?raw=true"/>
 
+*- Solving the LP problem* 
+<img src="images/sol.JPG?raw=true"/>
