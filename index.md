@@ -15,9 +15,6 @@
 [Optimal EV Charging Network](/ev_page)
 <img src="images/ev.JPG?raw=true"/>
 
----
-[Vehicle Claim Reimbursement Classifier](http://example.com/)
-<img src="images/reimbursed.JPG?raw=true"/>
 
 ---
 
