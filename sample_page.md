@@ -66,9 +66,20 @@ prices compared to last year, averaging $254.25/MWh.
 <img src="images/lf_variables.JPG?raw=true"/>
 <img src="images/lf_results.JPG?raw=true"/>
 
-• **Hybrid Price Forecasting Model using LSTM -** Since load data exhibited significant variance across seasons, two load forecasting models were created using the following features
+• **Hybrid Price Forecasting Model using LSTM -** Price spikes are a critical element in day-ahead electricity price forecasting. While spike hours are not 
+frequent (2.2% of total hours correspond to price spikes), but their quantum is huge, with the average 
+price during a spike hour being 21 times more than that of a non-spike hour. Therefore, it was 
+imperative to build a model that can predict a spike occurrence along with forecasting the price for 
+that particular hour. 
+<br><br>
+Spike definition
+Formally, let µ be the mean of pool price, and σ be the standard deviation of the selected data set. 
+The threshold level of the sample set can be calculated as:
+PTH = µ + 3σ
+Where PTH is the threshold value of the selected data set. Any price value greater than or equal to 
+PTH (Price ≥ PTH) is considered to be a price spike.
 
-<img src="images/lf_variables.JPG?raw=true"/>
+<img src="images/Priceforecasting.JPG?raw=true"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
