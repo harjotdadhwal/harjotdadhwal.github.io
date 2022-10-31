@@ -72,14 +72,15 @@ price during a spike hour being 21 times more than that of a non-spike hour. The
 imperative to build a model that can predict a spike occurrence along with forecasting the price for 
 that particular hour. 
 <br><br>
-Spike definition
-Formally, let µ be the mean of pool price, and σ be the standard deviation of the selected data set. 
+Spike definition - Formally, let µ be the mean of pool price, and σ be the standard deviation of the selected data set. 
 The threshold level of the sample set can be calculated as:
 PTH = µ + 3σ
 Where PTH is the threshold value of the selected data set. Any price value greater than or equal to 
 PTH (Price ≥ PTH) is considered to be a price spike.
 
 <img src="images/Priceforecasting.JPG?raw=true"/>
+
+<img src="images/actualvspred.JPG?raw=true"/>
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
