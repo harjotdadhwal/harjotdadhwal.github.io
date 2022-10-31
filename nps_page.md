@@ -57,11 +57,24 @@ The overall modeling framework adopted for this study can be summarized in the b
 <img src="images/nps.JPG?raw=true"/>
 
 
-• **Part 1.1. - CSD extraction using Topic Modelling (Latent Dirichlet Allocation) 
+• **Part 1.1. - CSD extraction using Topic Modelling (Latent Dirichlet Allocation)*** 
+6 Customer Satisfaction Dimensions have been identified through LDA namely - 
+<br><br>
+**1.Generic - appearing as a dominant topic in 11% of the responses 
 <img src="images/topic0.JPG?raw=true"/>
+<br><br>
+**2.Product - appearing as a dominant topic in 15% of the responses 
 <img src="images/topic1.JPG?raw=true"/>
+<br><br>
+**3.Experience - appearing as a dominant topic in 7% of the responses 
 <img src="images/topic2.JPG?raw=true"/>
+<br><br>
+**4.Availability - appearing as a dominant topic in 20% of the responses 
 <img src="images/topic3.JPG?raw=true"/>
+<br><br>
+**5.Discount - appearing as a dominant topic in 7% of the responses 
 <img src="images/topic4.JPG?raw=true"/>
+<br><br>
+**6.Service - appearing as a dominant topic in 40% of the responses 
 <img src="images/topic5.JPG?raw=true"/>
 
