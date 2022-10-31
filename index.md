@@ -12,7 +12,7 @@
 <img src="images/nps_main.JPG?raw=true"/>
 
 ---
-[Optimal EV Charging Network](http://example.com/)
+[Optimal EV Charging Network](/ev_page)
 <img src="images/ev.JPG?raw=true"/>
 
 ---
