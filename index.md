@@ -9,7 +9,7 @@
 
 ---
 [NPS Driver Analysis using effect-based Kano Model](/nps_page)
-<img src="images/nps.JPG?raw=true"/>
+<img src="images/nps_main.JPG?raw=true"/>
 
 ---
 [Optimal EV Charging Network](http://example.com/)
