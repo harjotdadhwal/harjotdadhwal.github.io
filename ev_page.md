@@ -45,4 +45,10 @@ The project output demands the following steps:
 - Create the demand-supply matrix 
 - Given the constraints, formulate an LP problem to minimise the overall cost 
 
+### 1.1. Forecast the EV demand for each demand point 
+- Exploratory dat analysis suggests, the current year's demand is dependent on previous year. 
+- Also, the average change in EV demand over the years is highy positively correlated with current years demand 
+- Using the above two features, demand of EV has been forecasted using Linear Regression with an MAE of 0.34 
 
+<img src="images/eda.JPG?raw=true"/>
+<img src="images/ev_avsp.JPG?raw=true"/>
