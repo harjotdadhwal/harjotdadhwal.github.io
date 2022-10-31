@@ -26,7 +26,7 @@ suburban town in India.
 
 **The demand for solving this problem at different geographies and scales will 
 increase exponentially in the next decades as EVs spread from cities and urban 
-areas to villages.
+areas to villages.**
 
 **Problem Statement:**
 - To optimally place EV charging stations
@@ -52,3 +52,20 @@ The project output demands the following steps:
 
 <img src="images/eda.JPG?raw=true"/>
 <img src="images/ev_avsp.JPG?raw=true"/>
+
+### 1.2. Estimate the distance to the nearest supply point 
+- Distance estimation from the demand point to the supply point is a function of magnitude. 
+- Applied Euclidean Distance to estimate distance between each demand and supply index 
+- This resulted in a demand-supply matrix of *mxn* dimensions. i.e. 4096*100 
+- Simply put, distance from every demand point to every supply point was calculated 
+
+### 1.3. Formulate an LP problem to minimise the overall cost 
+- Defining the objective function - adding all costs 
+<img src="images/ob.JPG?raw=true"/>
+
+- Defining the decision variables - (a) the demand fulfilled at every demand index by every supply index, (b)optimal number of scs and (c)optimal number of fcs  
+<img src="images/dv.JPG?raw=true"/>
+
+- Defining the constraints 
+(a) Sum of SCS and FCS must be less than or equal to the total parking slots available at each supply point  
+<img src="images/cons_parking.JPG?raw=true"/>
