@@ -51,11 +51,17 @@ The overall NPS score stood at 58.59%, which could be interpreted as ~60% of con
 <br><br>
 <img src="images/current_nps.JPG?raw=true"/>
 
-### 2. Modeling Approach 
+### 3. Modeling Approach 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
 <br><br>
-<img src="images/dummy_thumbnail.png?raw=true"/>
+<img src="images/nps.JPG?raw=true"/>
 
-### 3. Data Preparation 
-• **Missing values** - for weather parameters were imputed using MICE. Also, certain parameters like visibility, humidity, wind chill, and station pressure that had over 75% data missing - were removed.<br><br>
-• **Upscaling of weather data** -  it was required to upscale the data from lower to the broader level i.e., from station level to the province level. k-means clustering was used to perform data upscaling to establish data scale uniformity 
+
+• **Part 1.1. - CSD extraction using Topic Modelling (Latent Dirichlet Allocation) 
+<img src="images/topic0.JPG?raw=true"/>
+<img src="images/topic1.JPG?raw=true"/>
+<img src="images/topic2.JPG?raw=true"/>
+<img src="images/topic3.JPG?raw=true"/>
+<img src="images/topic4.JPG?raw=true"/>
+<img src="images/topic5.JPG?raw=true"/>
+
