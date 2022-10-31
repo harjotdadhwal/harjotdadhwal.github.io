@@ -26,20 +26,26 @@ and the customer satisfaction, an ensemble neural network based model (ENNM) is 
 effect-based Kano model (EKM), which can be further used to influence how to tailor products and improve services.
 
 **Business Objective:**
-• To identify actionable drivers of NPS for different geographies
+- To identify actionable drivers of NPS for different geographies
 
 
 **Analytics Objective:**
-• To extract customer satisfaction dimensions (CSDs) from customer feedback data and establish its relationship 
+- To extract customer satisfaction dimensions (CSDs) from customer feedback data and establish its relationship 
 with customer satisfaction to identify key ‘drivers’ of NPS
 
 
 
-### 1. Feature Space 
-Forecasting energy prices is a function of load prediction. Various parameters like historical load, 
-climate data, and calendar information were considered for forecasting load at an hourly interval of 
-time and in succession load, and other variables were considered to forecast price for the day-ahead 
-market in Alberta Canada. 
+### 1. Data Collection and Preprocessing 
+We were pprovided with 1 year of structured customer feedback data (1.78 lac responses) with information such as:
+	- customer details like mobile no, name, date of purchase 
+	- store code
+	- invoice amount 
+	- product/brand/category description 
+	- ratings, feedback 
+	- store reckoner
+
+<img src="images/cleaning.JPG?raw=true"/>
+
 
 ### 2. Modeling Approach 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
