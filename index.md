@@ -8,7 +8,7 @@
 <img src="images/pf.JPG?raw=true"/>
 
 ---
-[NPS Driver Analysis using effect-based Kano Model](/pdf/nps_page)
+[NPS Driver Analysis using effect-based Kano Model](/nps_page)
 <img src="images/nps.JPG?raw=true"/>
 
 ---
