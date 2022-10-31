@@ -24,15 +24,41 @@ In addition, the challenges around this problem are evolving as EVs penetrate di
 geographies. For example, the EV charging placement in a U.S. city has different nuances than in a 
 suburban town in India. 
 
-**The demand for solving 
+**The demand for solving this problem at different geographies and scales will 
+increase exponentially in the next decades as EVs spread from cities and urban 
+areas to villages.
 
-**Business Objective:**
-- To identify actionable drivers of NPS for different geographies
+**Problem Statement:**
+- To optimally place EV charging stations
+so that the configuration remains robust to demographic changes.
+
+<img src="images/evf.JPG?raw=true"/>
+
+Let’s try to understand forecasting of EV charging demand and EV infrastructure 
+optimisation using the above fugure. Typically for such problems, a geographic region is divided into 
+equal size blocks. Total EV charging demand of each block is represented at the centre 
+of the block. Let’s call these centre points as demand points, which are represented as red 
+circles in the above figure. All demand points of a geographic region collectively create a demand 
+map over the region of interest. For each demand point, forecasting can be done using 
+the historical demand maps.
+EV charging stations are typically installed at public parking locations so that EVs can be
+charged during the idle parking time. These parking locations are predefined based on 
+how real estate has been developed in the region. These are called supply points and 
+are represented as green stars in the above figure. Each parking location has a fixed number of 
+parking slots i.e. potential places to install EV charging stations. 
+<br><br>
+Typically, two types of 
+charging station are installed based on their supply capacity: i) slow charging station 
+(SCS) and ii) fast charging station (FCS). Based on how many SCS and FCS are installed
+at a parking location and their respective charging capacities, we can calculate the 
+maximum supply that can be given by each supply point. All supply points of a geographic 
+region collectively create a supply map over a region.
+Using the demand map, supply map, demand-supply constraints and objective, we can 
+optimally choose to place the EV charging stations so that the designed EV infrastructure 
+is best suited to cater the forecasted demand. More details on this are provided in the 
+subsequent sections.
 
 
-**Analytics Objective:**
-- To extract customer satisfaction dimensions (CSDs) from customer feedback data and establish its relationship 
-with customer satisfaction to identify key ‘drivers’ of NPS
 
 
 
