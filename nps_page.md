@@ -46,6 +46,10 @@ We were pprovided with 1 year of structured customer feedback data (1.78 lac res
 
 <img src="images/cleaning.JPG?raw=true"/>
 
+### 2. Current NPS Status
+The overall NPS score stood at 58.59%, which could be interpreted as ~60% of consumers were likely promote the brand to others. This was dismal. The ask was to extract key topics which influenced a poor or a great NPS rating. The challenge was to get the underlying and hidden nuances from the text data.   
+<br><br>
+<img src="images/current_nps.JPG?raw=true"/>
 
 ### 2. Modeling Approach 
 The overall modeling framework adopted for this study can be summarized in the below infographic.
