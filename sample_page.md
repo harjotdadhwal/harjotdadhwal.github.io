@@ -1,5 +1,7 @@
 ## Electricity Load and Price Forecasting for Short Term Period 
 *Time Series Forecasting*
+<br><br>
+The notebook was built using [GitHub](https://github.com/harjotdadhwal/Time-series-forecasting-)
 
 **Project Abstract:** 
 Electricity trading has grown with superlative rapidity. It is a special form of commodity 
