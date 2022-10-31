@@ -83,3 +83,9 @@ Sentiment classification has been done based on the polarity score from NLTK, th
 Further, each CSD has been assigned either a positive or negative sentiment orientation    
 <img src="images/1.2.JPG?raw=true"/>
 
+### Part 2 - Measuring the effects’ of customer sentiments toward each CSD on customer satisfaction 
+<img src="images/classifier.JPG?raw=true"/>
+
+### Part 3 - Identifying the category of each CSD from the customers’ perspective
+
+<img src="images/part3.JPG?raw=true"/>
