@@ -82,5 +82,30 @@ PTH (Price ≥ PTH) is considered to be a price spike.
 
 <img src="images/actualvspred.JPG?raw=true"/>
 
+### 7. Conclusion & Recommendations for Further Improvements
+Day-ahead electricity prices in Alberta are not just highly volatile in nature but have also turned out 
+to be disruptive given an unending Polar Vortex and extreme cold. This has led to rapid price spikes in 
+2021 with ~2 times the average pool price. It is a challenging task to forecast prices in such market 
+dynamics with multiple factors at play. It becomes imperative to identify the right set of variables and 
+establish an existential relationship between independent and dependent variables.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<img src="images/findings.JPG?raw=true"/>
+
+**Recommendations for Further Improvements**
+The following specific actions were recommended to be taken by the company in preparation for 
+model deployment:
+1. It is highly recommended to purchase **forecasted weather data** (temperature, dew point 
+temperature, relative humidity, wind speed, and wind speed direction) from a reliable source 
+to be able to deploy the Hybrid Price Forecasting Model 
+2. Due to highly disruptive price data in 2021, it is suggested to **continuously train the Hybrid 
+Price Forecasting Model with the new dataset and re-calibrate spike thresholds, if needed**. 
+3. It isstrongly recommended to **explore Seasonal, on-peak, and off-peak** Hybrid Price Forecast 
+Model to capture price spikes better.
+4. It is also suggested to build an **Intelligent Energy Algorithm** to make informed trading 
+decisions, that takes forecasted load and price as input from their respective models and 
+provides an optimized, cost-effective trading decision to buy, sell or generate electricity.
+5. Integration of Database with **time Series-based visualization tools.**
+
+
+
+
