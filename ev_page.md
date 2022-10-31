@@ -61,11 +61,22 @@ The project output demands the following steps:
 
 ### 1.3. Formulate an LP problem to minimise the overall cost 
 - Defining the objective function - adding all costs 
+- <img src="images/ob_def.JPG?raw=true"/>
 <img src="images/ob.JPG?raw=true"/>
 
-- Defining the decision variables - (a) the demand fulfilled at every demand index by every supply index, (b)optimal number of scs and (c)optimal number of fcs  
+- Defining the decision variables 
+<br><br>
+ (a) the demand fulfilled at every demand index by every supply index, (b)optimal number of scs and (c)optimal number of fcs  
 <img src="images/dv.JPG?raw=true"/>
 
 - Defining the constraints 
+<br><br>
 (a) Sum of SCS and FCS must be less than or equal to the total parking slots available at each supply point  
 <img src="images/cons_parking.JPG?raw=true"/>
+(b) SCS and FCS must increase or stay constant year-on-year at each
+supply point
+<img src="images/cons_exs.JPG?raw=true"/>
+(c) Forecasted demand at each demand point must exactly be
+satisfied
+<img src="images/cons_scs.JPG?raw=true"/>
+
