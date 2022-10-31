@@ -1,6 +1,6 @@
 ## NPS Driver Analysis using effect-based Kano Model 
 *Topic Modeling*
-The notebook was built using [GitHub Pages]((https://github.com/harjotdadhwal/Topic-Modelling-using-LDA))
+The notebook was built using [GitHub](https://github.com/harjotdadhwal/Topic-Modelling-using-LDA)
 
 **Project Abstract:** 
 The advent of e-commerce has resulted in a smaller, but more competitive battleground for retailers. 
