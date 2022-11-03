@@ -1,7 +1,12 @@
 
 ## Education
-[One year Executive Programme in Business Analytics and Intelligence](https://www.iimb.ac.in/eep/product/259/Business-Analytics-Intelligence-BAI)
+1. [One year Executive Programme in Business Analytics and Intelligence](https://www.iimb.ac.in/eep/product/259/Business-Analytics-Intelligence-BAI)
 <img src="images/iimb-logo.png?raw=true"/>
+
+2. [MBA in Marketing and HR](https://ubs.puchd.ac.in/)
+<img src="images/ubs.JPG?raw=true"/>
+<br><br>
+View my resume [here](pdf/Harjot Kaur_Nov_2022.pdf) 
 
 ---
 
@@ -43,6 +48,7 @@
 ### Certifications
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a0bb3fcf-362f-4c81-b0b7-b5162f7ca204/public_url)
 - [SQL for Data Science](https://www.coursera.org/account/accomplishments/verify/R8YFXLFH74GJ)
+
 
 
 ---
