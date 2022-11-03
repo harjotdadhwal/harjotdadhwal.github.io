@@ -7,7 +7,9 @@
 <img src="images/ubs.JPG?raw=true"/>
 <br><br>
 ---
-## [View my resume](/pdf/sample_presentation.pdf) 
+### Resume 
+
+[View my resume](/pdf/Harjot Kaur_Nov_2022.pdf) 
 
 ---
 
