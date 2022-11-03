@@ -1,3 +1,10 @@
+
+## Education
+[One year Executive Programme in Business Analytics and Intelligence](https://www.iimb.ac.in/eep/product/259/Business-Analytics-Intelligence-BAI)
+<img src="images/iimb-logo.png?raw=true"/>
+
+---
+
 ## Portfolio
 
 ---
