@@ -6,7 +6,7 @@
 2. [MBA in Marketing and HR](https://ubs.puchd.ac.in/)
 <img src="images/ubs.JPG?raw=true"/>
 <br><br>
-[View my resume](/pdf/Harjot Kaur_Nov_2022.pdf) 
+[View my resume](/pdf/sample_presentation.pdf) 
 
 ---
 
