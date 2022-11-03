@@ -1,18 +1,3 @@
-
-## Education
-1. [One year Executive Programme in Business Analytics and Intelligence](https://www.iimb.ac.in/eep/product/259/Business-Analytics-Intelligence-BAI)
-<img src="images/iimb-logo.png?raw=true"/>
-
-2. [MBA in Marketing and HR](https://ubs.puchd.ac.in/)
-<img src="images/ubs.JPG?raw=true"/>
-
----
-### Resume 
-
-[View my resume](/pdf/Harjot Kaur_Nov_2022.pdf) 
-
----
-
 ## Portfolio
 
 ---
