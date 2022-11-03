@@ -5,7 +5,7 @@
 
 2. [MBA in Marketing and HR](https://ubs.puchd.ac.in/)
 <img src="images/ubs.JPG?raw=true"/>
-<br><br>
+
 ---
 ### Resume 
 
